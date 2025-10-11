@@ -101,8 +101,8 @@ const ProjectsSection = () => {
       image: "/Portfolio.png",
       category: "web",
       technologies: ["React", "Tailwind css", "Framer Motion", "Git&Github"],
-      liveUrl: "https://mediscan-ai.com",
-      githubUrl: "https://github.com/username/mediscan",
+      liveUrl: "https://portfollio-nzya.onrender.com",
+      githubUrl: "https://github.com/souvikssamanta/Portfollio",
       featured: false,
       color: "from-teal-500 to-blue-500",
     },
@@ -411,22 +411,7 @@ const ProjectsSection = () => {
           ))}
         </motion.div>
 
-        {/* Call to Action */}
-        {/* <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
-          transition={{ delay: 1 }}
-          className="text-center mt-16"
-        >
-          <motion.button
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className="border-2 border-gray-600 text-gray-300 px-8 py-4 rounded-full font-semibold text-lg hover:bg-gray-800/50 hover:border-purple-500/50 transition-all duration-300 flex items-center gap-2 mx-auto"
-          >
-            View All Projects
-            <ArrowRight className="w-5 h-5" />
-          </motion.button>
-        </motion.div> */}
+        
       </div>
 
       {/* Project Modal */}
