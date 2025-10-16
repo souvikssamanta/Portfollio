@@ -1,6 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/souvikssamanta/Portfollio/assets/home.png" alt="Souvik Portfolio Banner" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/souvikssamanta/Portfollio/main/assets/home.png" alt="Souvik Portfolio Banner" width="100%" />
+</p>
+
 </p>
 
 <h1 align="center">🌟 Souvik Portfolio</h1>
@@ -85,10 +88,36 @@ Portfolio/
 │
 └── package.json
 
-# Start development server
-npm start
+🤝 Contributing
 
-| Home Page                             | Projects Section                              | Contact Page                                |
-| ------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| ![Home Screenshot](./assets/home.png) | ![Projects Screenshot](./assets/projects.png) | ![Contact Screenshot](./assets/contact.png) |
+Contributions, issues, and feature requests are always welcome 💡
+Check the issues page
+ or create a pull request.
+
+# Fork the repository
+# Create a feature branch
+git checkout -b feature-name
+
+# Commit your changes
+git commit -m "Add awesome feature"
+
+# Push to the branch
+git push origin feature-name
+
+# Open a Pull Request
+
+
+🧑‍💻 Author
+
+Souvik Samanta
+Frontend Developer | MERN Stack Enthusiast
+📧 souvikss2004@gmail.com
+
+
+
+⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub and sharing it with your network.
+Your support keeps me motivated to build and share more awesome projects 💙
+
 
